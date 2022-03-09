@@ -34,7 +34,6 @@ Some relevant columns in the dataset:
 - 4225 - Total number of avocados with PLU 4225 sold
 - 4770 - Total number of avocados with PLU 4770 sold
 
-![image.png](https://www.flickr.com/photos/30478819@N08/33063122713)
 
 ### Visualized figures from code
 ##### Click on the image or open in new tab
