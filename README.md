@@ -1,4 +1,4 @@
-# Time-Series-Prophet---Avocado-Prices-Prediction
+# Avocado-Prices-Prediction
 
 - You must install fbprophet package as follows: 
      pip install fbprophet
